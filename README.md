@@ -1,1 +1,3 @@
-> 正在努力寫出比昨天更少 Bug 的程式，剩下的時間通常在研究怎麼讓想法變成完整的世界。
+> 正在努力讓程式變成夢想中的世界。
+
+[![Anurag's GitHub stats](https://github-readme-stats-roan-sigma-36.vercel.app/api/top-langs?username=willy1236&langs_count=7)
