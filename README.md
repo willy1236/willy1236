@@ -64,6 +64,8 @@
 
 <br>
 
-<img src="https://github-stats-extended-frontend-beige.vercel.app/api/top-langs?username=willy1236&langs_count=14&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=0a0e13&title_color=f0d38a&text_color=a9b8c6&hide_border=true&border_radius=14&card_width=600&custom_title=LEGEND%20%C2%B7%20LANGUAGES&disable_animations=true" width="100%" alt="語言統計">
+<p align="center">
+  <img src="https://github-stats-extended-frontend-beige.vercel.app/api/top-langs?username=willy1236&langs_count=14&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=0a0e13&title_color=f0d38a&text_color=a9b8c6&hide_border=true&border_radius=14&card_width=600&custom_title=LEGEND%20%C2%B7%20LANGUAGES&disable_animations=true" width="560" alt="語言統計">
+</p>
 
 <img src="assets/footer.svg" width="100%" alt="星">
